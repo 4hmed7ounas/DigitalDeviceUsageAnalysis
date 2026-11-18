@@ -1,0 +1,22 @@
+data_source,daily_device_hours,check_frequency,social_conflict_score,digital_dependency_score,impact_category,row_id,kmeans_cluster,silhouette_value
+synthetic_historical,5,4,1.6667,3.3333,Low Impact,93,2,-0.0364
+synthetic_historical,3,2,2.0,2.6667,Moderate Impact,148,2,-0.0337
+synthetic_historical,5,5,4.6667,5.0,High Impact,73,2,-0.029
+synthetic_historical,5,5,3.0,4.6667,Moderate Impact,56,2,-0.0224
+real,4,2,4.3333,3.6667,High Impact,37,2,-0.0223
+real,4,4,3.6667,4.0,Moderate Impact,28,2,-0.016
+synthetic_historical,5,5,2.3333,4.6667,High Impact,149,2,-0.0119
+synthetic_historical,5,5,3.6667,4.0,Moderate Impact,63,2,-0.0117
+synthetic_historical,4,4,4.3333,4.3333,High Impact,105,2,-0.0116
+synthetic_historical,4,5,2.6667,4.0,High Impact,123,2,-0.0113
+synthetic_historical,4,2,2.0,2.6667,Moderate Impact,65,2,-0.0111
+synthetic_historical,2,4,1.0,2.6667,Low Impact,64,2,-0.01
+real,5,4,2.0,3.6667,Moderate Impact,30,2,-0.009
+synthetic_historical,5,5,3.0,4.3333,Moderate Impact,75,2,-0.0086
+synthetic_historical,3,2,3.0,2.6667,Moderate Impact,70,2,-0.0076
+synthetic_historical,3,3,3.6667,2.6667,High Impact,135,2,-0.0056
+real,3,1,2.3333,2.3333,Moderate Impact,25,2,-0.004
+real,2,4,2.6667,2.6667,High Impact,1,2,-0.0036
+real,4,4,2.6667,3.3333,Moderate Impact,41,2,-0.0031
+synthetic_historical,5,5,4.0,5.0,High Impact,133,2,-0.0015
+real,3,2,2.3333,2.3333,Low Impact,2,2,-0.0014
